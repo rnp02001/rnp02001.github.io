@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flatiron | Not Eureka]]></title>
+  <link href="http://rnp02001.github.io/blog/categories/flatiron/atom.xml" rel="self"/>
+  <link href="http://rnp02001.github.io/"/>
+  <updated>2015-08-01T23:15:08-04:00</updated>
+  <id>http://rnp02001.github.io/</id>
+  <author>
+    <name><![CDATA[Ryan Ponte]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <link href="http://rnp02001.github.io/blog/2015/08/01/my-first-post-on-octopress/"/>
+    <updated>2015-08-01T16:07:46-04:00</updated>
+    <id>http://rnp02001.github.io/blog/2015/08/01/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>Hello, World!</p>
+
+<p>Here&rsquo;s my solution to testing whether a number is prime:</p>
+
+<pre><code class="Ruby">def prime?(number)
+  (2...number).none? { |n| number % n == 0 }
+end
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>

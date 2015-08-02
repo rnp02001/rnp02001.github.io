@@ -4,7 +4,7 @@
   <title><![CDATA[Not Eureka]]></title>
   <link href="http://rnp02001.github.io/atom.xml" rel="self"/>
   <link href="http://rnp02001.github.io/"/>
-  <updated>2015-08-01T23:12:48-04:00</updated>
+  <updated>2015-08-01T23:15:08-04:00</updated>
   <id>http://rnp02001.github.io/</id>
   <author>
     <name><![CDATA[Ryan Ponte]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[My First Post on Octopress]]></title>
     <link href="http://rnp02001.github.io/blog/2015/08/01/my-first-post-on-octopress/"/>
-    <updated>2015-08-01T00:00:00-04:00</updated>
+    <updated>2015-08-01T16:07:46-04:00</updated>
     <id>http://rnp02001.github.io/blog/2015/08/01/my-first-post-on-octopress</id>
     <content type="html"><![CDATA[<p>Hello, World!</p>
 
