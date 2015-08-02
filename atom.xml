@@ -4,7 +4,7 @@
   <title><![CDATA[Not Eureka]]></title>
   <link href="http://rnp02001.github.io/atom.xml" rel="self"/>
   <link href="http://rnp02001.github.io/"/>
-  <updated>2015-08-01T22:52:34-04:00</updated>
+  <updated>2015-08-01T23:12:48-04:00</updated>
   <id>http://rnp02001.github.io/</id>
   <author>
     <name><![CDATA[Ryan Ponte]]></name>
@@ -16,9 +16,20 @@
   <entry>
     <title type="html"><![CDATA[My First Post on Octopress]]></title>
     <link href="http://rnp02001.github.io/blog/2015/08/01/my-first-post-on-octopress/"/>
-    <updated>2015-08-01T16:07:46-04:00</updated>
+    <updated>2015-08-01T00:00:00-04:00</updated>
     <id>http://rnp02001.github.io/blog/2015/08/01/my-first-post-on-octopress</id>
     <content type="html"><![CDATA[<p>Hello, World!</p>
+
+<p>Here&rsquo;s my solution to testing whether a number is prime:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='Ruby'><span class='line'><span class="k">def</span> <span class="nf">prime?</span><span class="p">(</span><span class="n">number</span><span class="p">)</span>
+</span><span class='line'>  <span class="p">(</span><span class="mi">2</span><span class="o">.</span><span class="n">.</span><span class="o">.</span><span class="n">number</span><span class="p">)</span><span class="o">.</span><span class="n">none?</span> <span class="p">{</span> <span class="o">|</span><span class="n">n</span><span class="o">|</span> <span class="n">number</span> <span class="o">%</span> <span class="n">n</span> <span class="o">==</span> <span class="mi">0</span> <span class="p">}</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
